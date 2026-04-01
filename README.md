@@ -91,6 +91,11 @@ http://127.0.0.1:5000/
 ## 👨‍💻 Author
 
 **Darshil Sharma**
+<img width="1848" height="612" alt="image" src="https://github.com/user-attachments/assets/5ebecb5a-fd2b-4972-9bb2-41a5b37eab7a" />
+<img width="520" height="314" alt="image" src="https://github.com/user-attachments/assets/0b9bd5fb-058f-42c9-a098-eb3a2b2501a8" />
+<img width="576" height="383" alt="image" src="https://github.com/user-attachments/assets/ba85c889-a280-4c20-a354-9c180fc31b0b" />
+<img width="933" height="323" alt="image" src="https://github.com/user-attachments/assets/d4cb0bd3-19c6-40e3-9ffb-8bfeb366230e" />
+
 
 ---
 
